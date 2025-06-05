@@ -1,0 +1,12 @@
+C:\Users\RohitYadavMAQSoftwar\Desktop\learnings\documentCollaboration\user-service\src\main\java\com\docucollab\userservice\config\JwtAuthenticationFilter.java
+C:\Users\RohitYadavMAQSoftwar\Desktop\learnings\documentCollaboration\user-service\src\main\java\com\docucollab\userservice\config\SecurityConfig.java
+C:\Users\RohitYadavMAQSoftwar\Desktop\learnings\documentCollaboration\user-service\src\main\java\com\docucollab\userservice\controller\AuthController.java
+C:\Users\RohitYadavMAQSoftwar\Desktop\learnings\documentCollaboration\user-service\src\main\java\com\docucollab\userservice\dto\AuthRequest.java
+C:\Users\RohitYadavMAQSoftwar\Desktop\learnings\documentCollaboration\user-service\src\main\java\com\docucollab\userservice\dto\AuthResponse.java
+C:\Users\RohitYadavMAQSoftwar\Desktop\learnings\documentCollaboration\user-service\src\main\java\com\docucollab\userservice\dto\RegisterRequest.java
+C:\Users\RohitYadavMAQSoftwar\Desktop\learnings\documentCollaboration\user-service\src\main\java\com\docucollab\userservice\entity\User.java
+C:\Users\RohitYadavMAQSoftwar\Desktop\learnings\documentCollaboration\user-service\src\main\java\com\docucollab\userservice\enums\Role.java
+C:\Users\RohitYadavMAQSoftwar\Desktop\learnings\documentCollaboration\user-service\src\main\java\com\docucollab\userservice\repository\UserRepository.java
+C:\Users\RohitYadavMAQSoftwar\Desktop\learnings\documentCollaboration\user-service\src\main\java\com\docucollab\userservice\service\AuthService.java
+C:\Users\RohitYadavMAQSoftwar\Desktop\learnings\documentCollaboration\user-service\src\main\java\com\docucollab\userservice\service\JwtService.java
+C:\Users\RohitYadavMAQSoftwar\Desktop\learnings\documentCollaboration\user-service\src\main\java\com\docucollab\userservice\UserServiceApplication.java

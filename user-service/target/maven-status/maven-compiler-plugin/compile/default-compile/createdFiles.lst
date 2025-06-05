@@ -1,0 +1,13 @@
+com\docucollab\userservice\config\JwtAuthenticationFilter.class
+com\docucollab\userservice\dto\AuthRequest.class
+com\docucollab\userservice\entity\User.class
+com\docucollab\userservice\service\AuthService.class
+com\docucollab\userservice\entity\User$UserBuilder.class
+com\docucollab\userservice\repository\UserRepository.class
+com\docucollab\userservice\config\SecurityConfig.class
+com\docucollab\userservice\dto\RegisterRequest.class
+com\docucollab\userservice\UserServiceApplication.class
+com\docucollab\userservice\controller\AuthController.class
+com\docucollab\userservice\enums\Role.class
+com\docucollab\userservice\service\JwtService.class
+com\docucollab\userservice\dto\AuthResponse.class
